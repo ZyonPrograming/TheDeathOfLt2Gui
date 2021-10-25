@@ -26,7 +26,7 @@ do
 	function utility:Create(instance, properties, children)
 		local object = Instance.new(instance)
 		
-		for i, v in pairs(properties or {}) do
+		for i, v in pairs(properties or {}) do--dddddd
 			object[i] = v
 			
 			if typeof(v) == "Color3" then -- save for theme changer later
