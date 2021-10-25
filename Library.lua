@@ -12,7 +12,7 @@ local tweeninfo = TweenInfo.new
 local utility = {}
 
 -- themes
-local objects = {}
+local objects = {}--Your mom is very gay!
 local themes = {
 	Background = Color3.fromRGB(147, 0, 0), 
 	Glow = Color3.fromRGB(0, 0, 0), 
