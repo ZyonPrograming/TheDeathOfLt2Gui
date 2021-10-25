@@ -1729,7 +1729,7 @@ do
 					Image = "rbxassetid://5012539403",
 					ImageColor3 = themes.TextColor,
 					SliceCenter = Rect.new(2, 2, 298, 298)
-				})
+				})--Dick Licker 9000
 			}),
 			utility:Create("ImageLabel", {
 				Name = "List",
